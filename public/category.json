@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6433c428a48301aac16c81b8",
+        "logo": "https://cdn-icons-png.flaticon.com/512/2830/2830155.png",
+        "title": "Bank Job",
+        "available": "67 Jobs Available"
+    },
+    {
+        "id": "6433c42847f5ccb9f5225587",
+        "logo": "https://cdn-icons-png.flaticon.com/512/3018/3018811.png",
+        "title": "Designer",
+        "available": "130 Jobs Available"
+    },
+    {
+        "id": "6433c42830d1c3526167798c",
+        "logo": "https://cdn-icons-png.flaticon.com/512/3247/3247170.png",
+        "title": "IT Job",
+        "available": "222 Jobs Available"
+    },
+    {
+        "id": "6433c428c15287359bb8e50e",
+        "logo": "https://cdn-icons-png.flaticon.com/512/1022/1022382.png",
+        "title": "Discipline  Job",
+        "available": "55 Jobs Available"
+    }
+]
